@@ -1,0 +1,15 @@
+footer p {
+  text-align: center;
+}
+
+.social-medias {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-medias svg {
+  font-size: 2rem;
+  margin: 0.5rem;
+}
